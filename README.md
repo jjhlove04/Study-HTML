@@ -1,2 +1,1 @@
-# Study-HTML
-Learning HTML
+#Study HTML with Udmey
